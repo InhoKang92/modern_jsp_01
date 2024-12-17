@@ -43,6 +43,7 @@
 + 로그인
   + 아이디 또는 비밀번호를 입력하지 않고 로그인 버튼을 클릭하면 미입력된 정보를 입력하라는 메세지가 출력됩니다.
 
+  ![로그인](https://media.githubusercontent.com/media/InhoKang92/modern_jsp_01/refs/heads/main/src/main/webapp/gifs/login.gif)
   
 + 마이페이지
   + 회원정보 페이지에서는 정보를 수정할 수 있습니다.
@@ -52,6 +53,7 @@
 #### 리뷰 페이지
 + 작성된 리뷰를 모두 확인할 수 있습니다.
 
+![리뷰](https://media.githubusercontent.com/media/InhoKang92/modern_jsp_01/refs/heads/main/src/main/webapp/gifs/review.gif)
 
 + 리뷰를 등록할 수 있고, 수정 또는 삭제를 하려면 등록시 입력했던 비밀번호가 필요합니다.
 
