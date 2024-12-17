@@ -37,7 +37,9 @@
   + 아이디 중복체크를 미실시한 경우 중복체크 미실시 경고창이 출력됩니다.
   + 아이디 중복체크 버튼 클릭 시 아이디 중복체크 팝업창이 노출됩니다.
   
-  
+  ![회원가입](https://github.com/user-attachments/assets/9a07236e-8dc2-44e0-af78-153b1b37cb45)
+  ![중복체크](https://github.com/user-attachments/assets/ee2001e2-398d-41dc-b7a6-6bd6f9cd98d8)
+
 + 로그인
   + 아이디 또는 비밀번호를 입력하지 않고 로그인 버튼을 클릭하면 미입력된 정보를 입력하라는 메세지가 출력됩니다.
 
@@ -45,13 +47,16 @@
 + 마이페이지
   + 회원정보 페이지에서는 정보를 수정할 수 있습니다.
 
-  
+  ![회원정보 수정](https://github.com/user-attachments/assets/a585cdc5-2cc9-4bd5-9f1f-600b42c69697)
+
 #### 리뷰 페이지
 + 작성된 리뷰를 모두 확인할 수 있습니다.
 
 
 + 리뷰를 등록할 수 있고, 수정 또는 삭제를 하려면 등록시 입력했던 비밀번호가 필요합니다.
 
+![리뷰수정비밀번호](https://github.com/user-attachments/assets/585b7783-bb62-4593-86a9-085fadfc9096)
+![리뷰삭제비밀번호](https://github.com/user-attachments/assets/0d55479a-e623-4bfd-94eb-7ec566ef5d29)
 
 #### 상품관리 페이지
 + 상품관리 페이지로 이동하려면 관리자 비밀번호가 필요합니다.
