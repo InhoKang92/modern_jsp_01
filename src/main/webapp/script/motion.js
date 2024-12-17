@@ -111,7 +111,7 @@ $(function(){
                 for(var i in data){
             
                     $(`.main_list:eq(${i})`).append(
-                        `<a href="./sub.html">
+                        `<a href="ModernServlet?command=mdh_sub">
                             <img src="${data[i].url}">
                             <span>${data[i].name}</span>
                         </a>`);
@@ -133,12 +133,12 @@ $(function(){
             
                     $('.pick_item_container').eq(i).append(
                         `<dt class="pick_thumnail">
-                            <a href="./sub.html">
+                            <a href="ModernServlet?command=mdh_sub">
                                 <img src="${data[i].url}">
                             </a>
                         </dt>
                         <dd class="pick_detail">
-                            <a href="./sub.html">${data[i].title}</a>
+                            <a href="ModernServlet?command=mdh_sub">${data[i].title}</a>
                             <div>
                             <div class="pick_price">
                                 <span>${data[i].dRate}</span>
@@ -187,12 +187,12 @@ $(function(){
             
                     $('.recom_item_container').eq(i).append(
                         `<dt class="recom_thumnail">
-                            <a href="./sub.html">
+                            <a href="ModernServlet?command=mdh_sub">
                                 <img src="${data[i].url}">
                             </a>
                         </dt>
                         <dd class="recom_detail">
-                            <a href="./sub.html">${data[i].title}</a>
+                            <a href="ModernServlet?command=mdh_sub">${data[i].title}</a>
                             <div>
                                 <div class="recom_price">
                                     <span>${data[i].dRate}</span>
