@@ -24,8 +24,17 @@
 ***
 ## 3. 프로젝트 설계 <a id="chapter3"></a>
 + Entity Relationship Diagram
+  
+  ![erd](https://github.com/user-attachments/assets/c5975026-4bed-4989-9da5-4fe5980d106f)
+
 + Usecase Diagram
+  
+  ![usecase](https://github.com/user-attachments/assets/1a2b12bf-88b5-460f-a98c-ef03953e9b2c)
+
 + Class Diagram
+  
+  ![class](https://github.com/user-attachments/assets/5da0e0bb-b62f-4b03-96b5-d4efc9064d5c)
+
 ***
 ## 4. 핵심 기능 <a id="chapter4"></a>
 + 회원가입
