@@ -24,8 +24,13 @@
 ***
 ## 3. 프로젝트 설계 <a id="chapter3"></a>
 + Entity Relationship Diagram
+  ![erd](https://github.com/user-attachments/assets/ad7e8ea4-596b-4bac-9cc7-9109df63cbaf)
+---
 + Usecase Diagram
+  ![usecase](https://github.com/user-attachments/assets/0761c35c-ea9e-482c-938a-36f6e5cc2f4c)
+---
 + Class Diagram
+  ![class](https://github.com/user-attachments/assets/5eaa5e10-5206-465a-bd8e-e32141f803c0)
 ***
 ## 4. 핵심 기능 <a id="chapter4"></a>
 + 회원가입
@@ -41,9 +46,11 @@
   + 필수 정보를 입력하지 않고 회원가입 버튼을 클릭하면 미입력된 정보를 입력하라는 메세지가 출력됩니다.
   + 비밀번호와 비밀번호 확인란에 입력된 값이 다를 경우 비밀번호 미일치 경고창이 출력됩니다.
   + 아이디 중복체크를 미실시한 경우 중복체크 미실시 경고창이 출력됩니다.
+ 
+    ![회원가입](https://github.com/user-attachments/assets/9a07236e-8dc2-44e0-af78-153b1b37cb45)
+    
   + 아이디 중복체크 버튼 클릭 시 아이디 중복체크 팝업창이 노출됩니다.
   
-  ![회원가입](https://github.com/user-attachments/assets/9a07236e-8dc2-44e0-af78-153b1b37cb45)
   ![중복체크](https://github.com/user-attachments/assets/ee2001e2-398d-41dc-b7a6-6bd6f9cd98d8)
 
 + 로그인
@@ -68,12 +75,11 @@
 
 #### 상품관리 페이지
 + 상품관리 페이지로 이동하려면 관리자 비밀번호가 필요합니다.
-+ 상품을 등록할 수 있고,
++ 상품을 등록/수정할 수 있고, 삭제하려면 다시 관리자 비밀번호가 필요합니다.
 
+![상품관리](https://github.com/user-attachments/assets/37745f0a-ad45-44cf-9a8e-a49f377d9b90)
 
 ***
 ## 6. 개선사항 <a id="chapter6"></a>
-+ 카카오, 네이버 등 소셜 로그인 기능
-+ 클래스 예약 완료 및 승인/거절 시 확인 메일 발송 기능
-+ 관리자의 회원 관리 기능
-+ 클래스 등록 파일 업로드 기능
++ 온라인 쇼핑몰 기본 구조 확립
++ 데이터베이스 구조 확립
