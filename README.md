@@ -1,7 +1,7 @@
-![메인](https://github.com/user-attachments/assets/bb7d375b-15dc-418f-84c9-6f08f46aacfc)
+![메인](https://github.com/user-attachments/assets/dcf6132c-22e3-4cee-94b9-c23b7ac6b93d)
 
 # JSP&SERVLET 개인 프로젝트 모던하우스(Modern House)
-***
+
 ## 목차
 + [개요](#chapter1)
 + [기술 스택](#chapter2)
@@ -9,11 +9,22 @@
 + [핵심 기능](#chapter4)
 + [주요기능 실행 화면](#chapter5)
 + [개선사항](#chapter6)
-***
+
+  
+<br/>
+<br/>
+
+
+
 ## 1. 개요 <a id="chapter1"></a>
 + 프로젝트 목표: JSP&SERVLET 기반 간단한 회원관리, 게시판 기능이 있는 쇼핑몰 웹사이트 제작
 + 개발 기간 : 24/09/27 - 24/10/18
-***
+
+  
+<br/>
+<br/>
+
+
 ## 2. 기술 스택 <a id="chapter2"></a>
 + Language : Java(11), JavaScript(1.5)
 + Library & Framework : Servlet(4.0)
@@ -21,17 +32,27 @@
 + Target: Web browser
 + Tool : Eclipse IDE(4.29.0)
 + ETC : Git
-***
+
+  
+<br/>
+<br/>
+
+
 ## 3. 프로젝트 설계 <a id="chapter3"></a>
 + Entity Relationship Diagram
   ![erd](https://github.com/user-attachments/assets/ad7e8ea4-596b-4bac-9cc7-9109df63cbaf)
----
+
 + Usecase Diagram
   ![usecase](https://github.com/user-attachments/assets/0761c35c-ea9e-482c-938a-36f6e5cc2f4c)
----
+
 + Class Diagram
   ![class](https://github.com/user-attachments/assets/5eaa5e10-5206-465a-bd8e-e32141f803c0)
-***
+
+  
+<br/>
+<br/>
+
+
 ## 4. 핵심 기능 <a id="chapter4"></a>
 + 회원가입
 + 로그인
@@ -39,7 +60,12 @@
 + 마이페이지(회원정보 수정)
 + 리뷰관리(등록, 수정, 삭제)
 + 상품관리(등록, 수정, 삭제)
-***
+
+  
+<br/>
+<br/>
+
+
 ## 5. 주요 기능 실행 화면 <a id="chapter5"></a>
 #### 메인 페이지
 + 회원가입
@@ -79,7 +105,11 @@
 
 ![상품관리](https://github.com/user-attachments/assets/37745f0a-ad45-44cf-9a8e-a49f377d9b90)
 
-***
+  
+<br/>
+<br/>
+
+
 ## 6. 개선사항 <a id="chapter6"></a>
 + 온라인 쇼핑몰 기본 구조 확립
 + 데이터베이스 구조 확립
