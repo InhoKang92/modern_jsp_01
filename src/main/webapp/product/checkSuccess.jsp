@@ -10,7 +10,8 @@ pageEncoding="UTF-8"%>
 
 
 <%
-response.sendRedirect("http://localhost:8080/Web_01/ModernServlet?command=product_list");
+System.out.println("checkSuccess.jsp");
+response.sendRedirect("http://localhost:8082/Web_01/ModernServlet?command=product_list");
 %>
 
 </body>
